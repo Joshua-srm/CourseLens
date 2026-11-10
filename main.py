@@ -1,1 +1,2 @@
 print("Welcome to CourseLens!")
+print("This application allows you to explore and analyze course data.")
